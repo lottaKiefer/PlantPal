@@ -48,7 +48,7 @@ http://localhost:8502/
 **NB.** : If your frontend service is hosted remotely, be sure to handle port forwarding accordingly.
 
 
-## 2. PlanPal Offline (Research) Codes
+## 2. PlantPal Offline (Research) Codes
 
 This section of the repository stores the code generated during our research activities. It may appear more disorganized compared to the application code, as we need to implement various models and algorithms throughout the term. The `/app` codes can be considered our final product. Additionally, we store some utility scripts, such as those for crawling and data generation.
 
